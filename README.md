@@ -15,7 +15,7 @@ Sou um entusiasta em tecnologia da Informação e programação. Atualmente estu
 
 **Linguagens e ferramentas**
 
-`Java` `Git` `Shell` `Javascript`
+`Html` `CSS` `JavaScript` `Java` `Git` `Shell` 
 
 ### Aprendendo
 
