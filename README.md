@@ -15,12 +15,10 @@ Sou um entusiasta em tecnologia da Informação e programação. Atualmente estu
 
 **Linguagens e ferramentas**
 
-`Html` `CSS` `JavaScript` `Java` `Git` `Shell` 
+`Html` `CSS` `JavaScript` `Git`  
 
 ### Aprendendo
 
-**Backend & Banco de dados**
-
-`Spring Boot` `SQL Server` `Maven` `MVC`
+`ReactJS`
 
 🧠 Projetos (Aguarde...)
