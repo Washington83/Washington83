@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-Sou um entusiasta em tecnologia da Informação e programação. Atualmente estudando desenvolvimento java voltado para backend.
+Sou um entusiasta em tecnologia da Informação e programação. Atualmente estudando JavaScript/Node.
 
 * Formado em **Análise e Desenvolvimento de Sistemas** (Uninove EAD)
 * Cursando **Sistema da Informação** (Estacio EAD)
