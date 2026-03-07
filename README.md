@@ -15,10 +15,10 @@ Sou um entusiasta em tecnologia da Informação e programação. Atualmente estu
 
 **Linguagens e ferramentas**
 
-`Html` `CSS` `JavaScript` `Git`  
+`Html` `CSS` `JavaScript` `Git` 
 
 ### Aprendendo
 
-`ReactJS`
+`PHP` `SQL` `ReactJS`
 
 🧠 Projetos (Aguarde...)
