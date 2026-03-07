@@ -19,6 +19,6 @@ Sou um entusiasta em tecnologia da Informação e programação. Atualmente estu
 
 ### Aprendendo
 
-`PHP` `SQL` `ReactJS`
+`PHP` `MySQL` `ReactJS`
 
 🧠 Projetos (Aguarde...)
