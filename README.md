@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-Sou um entusiasta em tecnologia da Informação e programação. Atualmente estudando Tecnologias Voltada para Web.
+Entusiasta em tecnologia da Informação e programação. Atualmente estudando Tecnologias Voltada para Web.
 
 * Formado em **Análise e Desenvolvimento de Sistemas** (Uninove EAD)
 * Cursando **Sistema da Informação** (Estacio EAD)
