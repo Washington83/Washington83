@@ -15,8 +15,7 @@ Entusiasta em tecnologia da Informação e programação. Atualmente estudando T
 
 **Linguagens e ferramentas**
 
-`Html` `CSS` `JavaScript` `Git`  
-`PHP` `MySQL`
+`Html` `CSS` `JavaScript` `Git` `PHP` `MySQL`
 
 ### Aprendendo
 `ReactJS` `TypeScript` 
