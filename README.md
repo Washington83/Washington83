@@ -18,4 +18,4 @@ Entusiasta em tecnologia da Informação e programação. Atualmente estudando T
 `Html` `CSS` `JavaScript` `Git`  `MySQL`
 
 ### Aprendendo
-`Java` `ReactJS` `TypeScript` 
+`Java` `SpringBoot` `ReactJS` `TypeScript` 
